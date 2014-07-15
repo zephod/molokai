@@ -167,7 +167,8 @@ if &t_Co > 255
 
    " complete menu
    hi Pmenu           ctermfg=81  ctermbg=16
-   hi PmenuSel                    ctermbg=244
+   " hi PmenuSel                    ctermbg=244
+   hi PmenuSel        ctermfg=81  ctermbg=90
    hi PmenuSbar                   ctermbg=233
    hi PmenuThumb      ctermfg=81
 
