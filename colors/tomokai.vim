@@ -206,13 +206,13 @@ if &t_Co > 255
    hi WarningMsg      ctermfg=231 ctermbg=238   cterm=bold
    hi WildMenu        ctermfg=81  ctermbg=16
 
-   hi Normal          ctermfg=252 ctermbg=234
+   hi Normal          ctermfg=252 ctermbg=232
    hi Comment         ctermfg=59
    hi CursorLine                  ctermbg=235   cterm=none
    hi CursorColumn                ctermbg=235
    hi ColorColumn                 ctermbg=235
-   hi LineNr          ctermfg=250 ctermbg=234
-   hi NonText         ctermfg=240 ctermbg=234
+   hi LineNr          ctermfg=250 ctermbg=232
+   hi NonText         ctermfg=240 ctermbg=232
    hi TabLine         ctermfg=244 ctermbg=237 cterm=underline
    hi TabLineFill     ctermfg=244 ctermbg=237 cterm=underline
    hi TabLineSel      ctermfg=232 ctermbg=250 cterm=none
